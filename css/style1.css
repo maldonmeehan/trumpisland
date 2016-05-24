@@ -1,0 +1,25 @@
+h1 {
+  color: #FFD700;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  font-style: bold;
+  text-align: center;
+}
+
+h3 {
+  color: blue;
+  font-style: bold;
+  text-align: center;
+}
+
+p {
+  font-family: serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
