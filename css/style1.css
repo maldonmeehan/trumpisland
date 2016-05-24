@@ -1,9 +1,9 @@
 body {
-    background-color: #FFD700;
+    background-color: silver;
 }
 
 h1 {
-  color: purple;
+  color: red;
   text-align: center;
 }
 
@@ -30,6 +30,5 @@ ul {
 }
 
 img {
-  width: 50%;
-  align: center;
+  width: 80%;
 }
