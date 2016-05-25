@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-  color: red;
+  color: silver;
   font-style: bold;
   text-align: center;
 }
@@ -17,7 +17,7 @@ h2 {
 h3 {
   color: black;
   font-style: bold;
-  text-align: left;
+  text-align: center;
 }
 
 p {
