@@ -6,7 +6,13 @@
 
 ## Description
 
-This website is made based on a scenario that says we are hired by a wealthy individual (we chose Trump) to create a website for a private island resort that he is building.
+This website is made based on a scenario that says we are hired by a wealthy individual (we chose Trump) to create a website for a private island resort that he is building. Our website includes
+* A main home page and pages for the following:
+* accommodations
+* activities
+* travel arrangements
+* pictures, etc.
+* contact information
 
 ## Setup/Installation Requirements
 
