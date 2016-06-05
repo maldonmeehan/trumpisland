@@ -1,17 +1,18 @@
-HEAD:css/style.css
 body {
-    background-color: #FFD700;
+    background-color: #b3ffff;
 }
 
 h1 {
-  color: red;
+  color: #0066ff;
   text-align: center;
+  text-shadow:2px 2px #ff0000;
 }
 
 h2 {
-  color: silver;
+  color: #00b3b3;
   font-style: bold;
   text-align: center;
+  font-family: cursive;
 }
 
 h3 {
