@@ -16,21 +16,16 @@ h2 {
 }
 
 h3 {
-  color: black;
-  font-style: bold;
-  text-align: center;
+  font-family: fantasy;
+  font-stretch: expanded;
 }
 
 p {
   font-family: serif;
 }
 
-ul {
-  font-size: 20px;
-  line-height: 30px;
-  text-align: left;
-}
-
 img {
-  width: 80%;
+  width: 40%;
+  float: center;
+  border: 3px solid gold;
 }
