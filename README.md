@@ -14,6 +14,8 @@ This website is made based on a scenario that says we are hired by a wealthy ind
 * pictures, etc.
 * contact information
 
+The orginal lesson can be found here: http://maldonmeehan.github.io/my-first-webpage/
+
 ## Setup/Installation Requirements
 
 * This website is viewable on the Web at GitHub:
@@ -26,7 +28,7 @@ _Currently no known bugs_
 
 ## Support and contact details
 
-If you run into any issues or have questions, ideas or concerns, please contact Maldon at maldonmeehan@gmail.com or Noah at noahyasskin@gmail.com. We welcome any contributions you would like to make to the website.
+If you run into any issues or have questions, ideas or concerns, please contact Maldon or Noah on github. We welcome any contributions you would like to make to the website.
 
 ## Technologies Used
 
